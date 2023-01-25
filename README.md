@@ -7,3 +7,12 @@ This is an automation of operations with excel that I made using Python, it aims
 pip install pandas
 pip install openpyxl
 ```
+### In ```main.py``` file... change the following variables:
+```
+42. msg['Subject'] = 'Enter the email subject here'
+43. msg['From'] = 'Enter sender here'
+44. msg['To'] = 'destinatário'
+45.
+46.
+47.
+```
