@@ -11,8 +11,6 @@ pip install openpyxl
 ```
 42. msg['Subject'] = 'Enter the email subject here'
 43. msg['From'] = 'Enter sender here'
-44. msg['To'] = 'destinatário'
-45.
-46.
-47.
+44. msg['To'] = 'Enter recipient here'
+45. password = 'Enter the token here'  (To get the token go to: https://security.google.com/settings/security/apppasswords.)
 ```
