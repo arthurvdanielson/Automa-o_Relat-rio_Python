@@ -1,5 +1,9 @@
 # Report Automation with Python
 This is an automation of operations with excel that I made using Python, it aims to automatically send an email to the recipient containing the Billing, the quantity of products sold and the average ticket per product.
 
-# How to install:
-
+## How to install:
+### 
+```
+pip install pandas
+pip install openpyxl
+```
